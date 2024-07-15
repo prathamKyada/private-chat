@@ -1,0 +1,47 @@
+  .main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;  
+    background-color: #f0f0f0;  
+  }
+  
+  .login-div {
+    width: 400px;   
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 0 20px rgba(0,0,0,0.1);   
+    border-radius: 8px;     
+  }
+  
+  .input_txt_name,
+  .input_txt_password {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  .input_txt_name:focus,
+  .input_txt_password:focus {
+    border-color: #4CAF50; 
+  }
+  
+  .btn_submit {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white; 
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .btn_submit:hover {
+    background-color: #45a049;  
+  }
+  

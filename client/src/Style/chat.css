@@ -1,0 +1,74 @@
+/* General styles */
+/* body,
+html {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+} */
+
+/* .xyz{
+  background: #0056b3;
+    width: 100px;
+    height: 100px;
+}
+
+.chat-main {
+  display: flex;
+  flex-direction: column;
+  height: 80vh; 
+  width: 60vw;
+  margin: auto;
+  background-color: #f0f0f0;
+  border-radius: 8px;
+  overflow-y: scroll;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.chat-list ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  max-height: calc(80vh - 120px); /* Adjust based on your needs */
+  /* overflow-y: scroll;
+}
+
+.chat-list li {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+.chat-text {
+  display: flex;
+  padding: 10px;
+  background-color: #fff;
+ max-width: 920px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+.btn-send {
+  margin-left: 10px;
+  padding: 10px 15px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn-send:hover {
+  background-color: #0056b3;
+}
+
+input{
+    width: 100%;
+} */
+
+
+
+/* .align-msg{
+  background-color: #282c34;
+  color: red;
+  float: right;
+} */
